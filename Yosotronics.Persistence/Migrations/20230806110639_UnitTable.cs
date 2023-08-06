@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Yosotronics.Persistence.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialTableCreation : Migration
+    public partial class UnitTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -33,6 +33,29 @@ namespace Yosotronics.Persistence.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Attributes", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Brands",
+                schema: "yeso",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    Description = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: false),
+                    CategoryId = table.Column<long>(type: "bigint", nullable: false),
+                    SubCategoryId = table.Column<long>(type: "bigint", nullable: false),
+                    CreatedBy = table.Column<long>(type: "bigint", nullable: false),
+                    CreatedDate = table.Column<DateTime>(type: "datetime", nullable: false),
+                    ModifiedBy = table.Column<long>(type: "bigint", nullable: true),
+                    ModifiedDate = table.Column<DateTime>(type: "datetime", nullable: true),
+                    IsActive = table.Column<bool>(type: "bit", nullable: false),
+                    IsDeleted = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Brands", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -120,6 +143,27 @@ namespace Yosotronics.Persistence.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Units",
+                schema: "yeso",
+                columns: table => new
+                {
+                    Id = table.Column<long>(type: "bigint", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(50)", maxLength: 50, nullable: false),
+                    Description = table.Column<string>(type: "nvarchar(500)", maxLength: 500, nullable: false),
+                    CreatedBy = table.Column<long>(type: "bigint", nullable: false),
+                    CreatedDate = table.Column<DateTime>(type: "datetime", nullable: false),
+                    ModifiedBy = table.Column<long>(type: "bigint", nullable: true),
+                    ModifiedDate = table.Column<DateTime>(type: "datetime", nullable: true),
+                    IsActive = table.Column<bool>(type: "bit", nullable: false),
+                    IsDeleted = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Units", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "Users",
                 schema: "yeso",
                 columns: table => new
@@ -151,6 +195,13 @@ namespace Yosotronics.Persistence.Migrations
                 unique: true);
 
             migrationBuilder.CreateIndex(
+                name: "IX_Brands_Name",
+                schema: "yeso",
+                table: "Brands",
+                column: "Name",
+                unique: true);
+
+            migrationBuilder.CreateIndex(
                 name: "IX_ProductTypes_Name",
                 schema: "yeso",
                 table: "ProductTypes",
@@ -162,6 +213,13 @@ namespace Yosotronics.Persistence.Migrations
                 schema: "yeso",
                 table: "Subscribes",
                 column: "Email",
+                unique: true);
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Units_Name",
+                schema: "yeso",
+                table: "Units",
+                column: "Name",
                 unique: true);
 
             migrationBuilder.CreateIndex(
@@ -187,6 +245,10 @@ namespace Yosotronics.Persistence.Migrations
                 schema: "yeso");
 
             migrationBuilder.DropTable(
+                name: "Brands",
+                schema: "yeso");
+
+            migrationBuilder.DropTable(
                 name: "Categories",
                 schema: "yeso");
 
@@ -200,6 +262,10 @@ namespace Yosotronics.Persistence.Migrations
 
             migrationBuilder.DropTable(
                 name: "Subscribes",
+                schema: "yeso");
+
+            migrationBuilder.DropTable(
+                name: "Units",
                 schema: "yeso");
 
             migrationBuilder.DropTable(
