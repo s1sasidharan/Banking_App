@@ -14,6 +14,7 @@ namespace Yosotronics.Persistence
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services)
         {
             services.AddTransient<IUserRepository, UserRepository>();
+            services.AddTransient<IUnitRepository, UnitRepository>();
             services.AddTransient<IBrandRepository, BrandRepository>();
             services.AddTransient<ICategoryRepository, CategoryRepository>();
             services.AddTransient<ISubCategoryRepository, SubCategoryRepository>();

@@ -13,6 +13,7 @@ namespace Yosotronics.Persistence
         public YosotronicsDbContext(DbContextOptions<YosotronicsDbContext> options) : base(options) { }
 
         public DbSet<UserDTO> Users { get; set; }
+        public DbSet<UnitDTO> Units { get; set; }
         public DbSet<BrandDTO> Brands { get; set; }
         public DbSet<CategoryDTO> Categories { get; set; }
         public DbSet<SubCategoryDTO> SubCategories { get; set; }
@@ -46,6 +47,9 @@ namespace Yosotronics.Persistence
             modelBuilder.Entity<BrandDTO>()
                        .HasIndex(u => u.Name)
                        .IsUnique();
+            modelBuilder.Entity<UnitDTO>()
+                      .HasIndex(u => u.Name)
+                      .IsUnique();
 
         }
     }

@@ -17,6 +17,8 @@ namespace Yesotronics.Service.AutoMapper
 
             CreateMap<BrandRequest, BrandDTO>().ReverseMap();
             CreateMap<Brand, BrandDTO>().ReverseMap();
+            CreateMap<Unit, UnitDTO>().ReverseMap();
+            CreateMap<UnitRequest, UnitDTO>().ReverseMap();
             CreateMap<Category, CategoryDTO>().ReverseMap();
             CreateMap<CategoryRequest, CategoryDTO>().ReverseMap();
             CreateMap<SubCategory, SubCategoryDTO>().ReverseMap();

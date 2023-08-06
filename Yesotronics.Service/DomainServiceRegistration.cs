@@ -19,6 +19,7 @@ namespace Yesotronics.Service
             services.AddTransient<ISubscribeService, SubscribeService>();
             services.AddTransient<IAttributeService, AttributeService>();
             services.AddTransient<IProductTypeService, ProductTypeService>();
+            services.AddTransient<IUnitService, UnitService>();
             return services;
         }
     }
