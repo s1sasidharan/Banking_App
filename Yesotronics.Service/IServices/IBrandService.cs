@@ -7,9 +7,9 @@ using Yesotronics.Domain.Models;
 using Yesotronics.Domain.Models.Request;
 using Yesotronics.Domain.Models.Response;
 
-namespace Yosotronics.Persistence.IRepositories
+namespace Yesotronics.Service.IServices
 {
-    public interface IBrandRepository
+    public interface IBrandService
     {
         public Response PostBrand(BrandRequest brandRequest);
         public List<Brand> GetBrands();

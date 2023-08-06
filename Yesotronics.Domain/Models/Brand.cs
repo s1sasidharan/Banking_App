@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Yesotronics.Domain.Models.Request
+namespace Yesotronics.Domain.Models
 {
-    public class BrandRequest
+    public class Brand
     {
+        public long Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public long CategoryId { get; set; }

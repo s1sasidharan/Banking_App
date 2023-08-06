@@ -16,8 +16,8 @@ namespace Yosotronics.Persistence.Models
         public long Id { get; set; }
 
         [Required]
-        [MaxLength(100)]
-        [Column(TypeName = "nvarchar(100)")]
+        [MaxLength(50)]
+        [Column(TypeName = "nvarchar(500)")]
         public string Name { get; set; }
 
         [Required]

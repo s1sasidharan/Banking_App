@@ -14,7 +14,9 @@ namespace Yesotronics.Service.AutoMapper
     public class MappingProfile : Profile
     {
         public MappingProfile() {
-        
+
+            CreateMap<BrandRequest, BrandDTO>().ReverseMap();
+            CreateMap<Brand, BrandDTO>().ReverseMap();
             CreateMap<Category, CategoryDTO>().ReverseMap();
             CreateMap<CategoryRequest, CategoryDTO>().ReverseMap();
             CreateMap<SubCategory, SubCategoryDTO>().ReverseMap();
