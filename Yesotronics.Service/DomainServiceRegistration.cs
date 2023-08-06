@@ -13,6 +13,7 @@ namespace Yesotronics.Service
     {
         public static IServiceCollection AddDomainServices(this IServiceCollection services) {
             services.AddTransient<IUserService,UserService>();
+            services.AddTransient<IBrandService, BrandService>();
             services.AddTransient<ICategoryService, CategoryService>();
             services.AddTransient<ISubCategoryService, SubCategoryService>();
             services.AddTransient<ISubscribeService, SubscribeService>();
