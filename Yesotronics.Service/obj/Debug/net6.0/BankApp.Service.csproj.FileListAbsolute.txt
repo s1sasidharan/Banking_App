@@ -1,0 +1,17 @@
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\BankApp.Service.deps.json
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\BankApp.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\BankApp.Service.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\BankApp.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\BankApp.Persistence.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\BankApp.Domain.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\BankApp.Persistence.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\BankApp.Service.csproj.AssemblyReference.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\BankApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\BankApp.Service.AssemblyInfoInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\BankApp.Service.AssemblyInfo.cs
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\BankApp.Service.csproj.CoreCompileInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\BankApp.Service.csproj.CopyComplete
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\BankApp.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\refint\BankApp.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\BankApp.Service.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\ref\BankApp.Service.dll

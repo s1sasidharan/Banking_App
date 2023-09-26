@@ -1,0 +1,24 @@
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\Yesotronics.Domain.deps.json
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\Yesotronics.Domain.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\Yesotronics.Domain.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.csproj.AssemblyReference.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.AssemblyInfoInputs.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.AssemblyInfo.cs
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.csproj.CoreCompileInputs.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\refint\Yesotronics.Domain.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\ref\Yesotronics.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\Yesotronics.Domain.deps.json
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\Yesotronics.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\Yesotronics.Domain.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.csproj.AssemblyReference.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.AssemblyInfoInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.AssemblyInfo.cs
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.csproj.CoreCompileInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\refint\Yesotronics.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\Yesotronics.Domain.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\ref\Yesotronics.Domain.dll

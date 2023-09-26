@@ -1,0 +1,17 @@
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\bin\Release\net6.0\Yosotronics.Persistence.deps.json
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\bin\Release\net6.0\Yosotronics.Persistence.runtimeconfig.json
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\bin\Release\net6.0\Yosotronics.Persistence.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\bin\Release\net6.0\Yosotronics.Persistence.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\bin\Release\net6.0\Yesotronics.Domain.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\bin\Release\net6.0\Yesotronics.Domain.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.csproj.AssemblyReference.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.AssemblyInfoInputs.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.AssemblyInfo.cs
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.csproj.CoreCompileInputs.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.csproj.CopyComplete
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\refint\Yosotronics.Persistence.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\Yosotronics.Persistence.genruntimeconfig.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yosotronics.Persistence\obj\Release\net6.0\ref\Yosotronics.Persistence.dll

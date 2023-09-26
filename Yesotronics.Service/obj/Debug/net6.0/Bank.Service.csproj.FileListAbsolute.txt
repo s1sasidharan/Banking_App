@@ -1,0 +1,17 @@
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Bank.Service.deps.json
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Bank.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Bank.Service.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Bank.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Bank.Persistence.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Bank.Domain.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Bank.Persistence.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Bank.Service.csproj.AssemblyReference.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Bank.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Bank.Service.AssemblyInfoInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Bank.Service.AssemblyInfo.cs
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Bank.Service.csproj.CoreCompileInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Bank.Service.csproj.CopyComplete
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Bank.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\refint\Bank.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Bank.Service.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\ref\Bank.Service.dll

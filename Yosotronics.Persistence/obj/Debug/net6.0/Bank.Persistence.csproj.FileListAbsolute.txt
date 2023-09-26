@@ -1,0 +1,17 @@
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\bin\Debug\net6.0\Bank.Persistence.deps.json
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\bin\Debug\net6.0\Bank.Persistence.runtimeconfig.json
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\bin\Debug\net6.0\Bank.Persistence.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\bin\Debug\net6.0\Bank.Persistence.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\bin\Debug\net6.0\Bank.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\bin\Debug\net6.0\Bank.Domain.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.csproj.AssemblyReference.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.AssemblyInfoInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.AssemblyInfo.cs
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.csproj.CoreCompileInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.csproj.CopyComplete
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\refint\Bank.Persistence.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\Bank.Persistence.genruntimeconfig.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yosotronics.Persistence\obj\Debug\net6.0\ref\Bank.Persistence.dll

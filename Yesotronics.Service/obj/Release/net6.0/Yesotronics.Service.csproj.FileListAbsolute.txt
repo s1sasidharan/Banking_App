@@ -1,0 +1,17 @@
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Release\net6.0\Yesotronics.Service.deps.json
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Release\net6.0\Yesotronics.Service.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Release\net6.0\Yesotronics.Service.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Release\net6.0\Yesotronics.Domain.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Release\net6.0\Yosotronics.Persistence.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Release\net6.0\Yesotronics.Domain.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Release\net6.0\Yosotronics.Persistence.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\Yesotronics.Service.csproj.AssemblyReference.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\Yesotronics.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\Yesotronics.Service.AssemblyInfoInputs.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\Yesotronics.Service.AssemblyInfo.cs
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\Yesotronics.Service.csproj.CoreCompileInputs.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\Yesotronics.Service.csproj.CopyComplete
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\Yesotronics.Service.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\refint\Yesotronics.Service.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\Yesotronics.Service.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Release\net6.0\ref\Yesotronics.Service.dll

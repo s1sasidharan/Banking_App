@@ -1,0 +1,12 @@
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\BankApp.Domain.deps.json
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\BankApp.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\bin\Debug\net6.0\BankApp.Domain.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\BankApp.Domain.csproj.AssemblyReference.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\BankApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\BankApp.Domain.AssemblyInfoInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\BankApp.Domain.AssemblyInfo.cs
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\BankApp.Domain.csproj.CoreCompileInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\BankApp.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\refint\BankApp.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\BankApp.Domain.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Domain\obj\Debug\net6.0\ref\BankApp.Domain.dll

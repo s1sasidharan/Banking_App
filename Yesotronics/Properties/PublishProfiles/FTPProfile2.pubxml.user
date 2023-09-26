@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/qI/qcUnl0+liV1w3CODAQAAAAACAAAAAAAQZgAAAAEAACAAAAA1ufanum5w1sb8NDpxd9rj5k0HVeDFpDhYYPf8WOFpWAAAAAAOgAAAAAIAACAAAAAt8UpJcn12vS3yR2X1HuCR8p40fKvk5w5ffV6FP5hGiYAAAADSdysMpyJJrK+7nM2GIocoCihYsUVIPti1paxp/HmDIqQOzdDyh1Ro8E4Az4YNN33fqJaka0LoCh1Q7V4mAtd2B26u0HCYIYa/HoLxFChdr35WHqV9AL7j2YKQn11j0OYqiDy+kr/LVyw/aclgtRwsj/IGYadPnUJD+GEQ6j9BM0AAAABLva0BXlsBCIyE9je/h5X6Dqu6DoFdcfu8kwvs8BqonEPxoWJhOg3GT2MWwFcPvdqGbyjik3DzVckDeONzYLzs</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-blu-425.ftp.azurewebsites.windows.net/ftps://waws-prod-blu-425.ftp.azurewebsites.windows.net</_PublishTargetUrl>
+    <History>False|2023-08-06T15:32:05.9927753Z;</History>
+  </PropertyGroup>
+</Project>

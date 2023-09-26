@@ -1,0 +1,34 @@
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Service.deps.json
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Service.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Service.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Domain.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yosotronics.Persistence.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Domain.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yosotronics.Persistence.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.csproj.AssemblyReference.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.GeneratedMSBuildEditorConfig.editorconfig
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.AssemblyInfoInputs.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.AssemblyInfo.cs
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.csproj.CoreCompileInputs.cache
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.csproj.CopyComplete
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\refint\Yesotronics.Service.dll
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.pdb
+G:\Yesotronics\Web App\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\ref\Yesotronics.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Service.deps.json
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Service.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Domain.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yosotronics.Persistence.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yesotronics.Domain.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\bin\Debug\net6.0\Yosotronics.Persistence.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.csproj.AssemblyReference.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.AssemblyInfoInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.AssemblyInfo.cs
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.csproj.CoreCompileInputs.cache
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.csproj.CopyComplete
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\refint\Yesotronics.Service.dll
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\Yesotronics.Service.pdb
+F:\BankSummary\Yesotronics_Backend\Yesotronics_Backend\Yesotronics.Service\obj\Debug\net6.0\ref\Yesotronics.Service.dll
