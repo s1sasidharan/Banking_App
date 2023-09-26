@@ -12,14 +12,10 @@ namespace Yesotronics.Service
     public static class DomainServiceRegistration
     {
         public static IServiceCollection AddDomainServices(this IServiceCollection services) {
-            services.AddTransient<IUserService,UserService>();
-            services.AddTransient<IBrandService, BrandService>();
-            services.AddTransient<ICategoryService, CategoryService>();
-            services.AddTransient<ISubCategoryService, SubCategoryService>();
-            services.AddTransient<ISubscribeService, SubscribeService>();
-            services.AddTransient<IAttributeService, AttributeService>();
-            services.AddTransient<IProductTypeService, ProductTypeService>();
-            services.AddTransient<IUnitService, UnitService>();
+            services.AddTransient<IBankService, BankService>();
+            services.AddTransient<IBranchService, BranchService>();
+            services.AddTransient<ICustomerService, CustomerService>();
+            services.AddTransient<ITransactionService, TransactionService>();
             return services;
         }
     }

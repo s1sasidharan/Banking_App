@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yesotronics", "Yesotronics\Yesotronics.csproj", "{73F20E9B-EE96-4A9F-B45E-AF7054C77A45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankApp", "Yesotronics\BankApp.csproj", "{73F20E9B-EE96-4A9F-B45E-AF7054C77A45}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yosotronics.Persistence", "Yosotronics.Persistence\Yosotronics.Persistence.csproj", "{52F00C9F-1025-45CF-BDFE-1D378C4586E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankApp.Persistence", "Yosotronics.Persistence\BankApp.Persistence.csproj", "{52F00C9F-1025-45CF-BDFE-1D378C4586E9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yesotronics.Domain", "Yesotronics.Domain\Yesotronics.Domain.csproj", "{77766C51-6E24-46DA-B6FA-7DF50DCB1207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankApp.Domain", "Yesotronics.Domain\BankApp.Domain.csproj", "{77766C51-6E24-46DA-B6FA-7DF50DCB1207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yesotronics.Service", "Yesotronics.Service\Yesotronics.Service.csproj", "{29AD0ACE-E1C7-42B5-B104-5D6C4631F81C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankApp.Service", "Yesotronics.Service\BankApp.Service.csproj", "{29AD0ACE-E1C7-42B5-B104-5D6C4631F81C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

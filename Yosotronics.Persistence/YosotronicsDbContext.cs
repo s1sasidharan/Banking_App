@@ -12,44 +12,16 @@ namespace Yosotronics.Persistence
     {
         public YosotronicsDbContext(DbContextOptions<YosotronicsDbContext> options) : base(options) { }
 
-        public DbSet<UserDTO> Users { get; set; }
-        public DbSet<UnitDTO> Units { get; set; }
-        public DbSet<BrandDTO> Brands { get; set; }
-        public DbSet<CategoryDTO> Categories { get; set; }
-        public DbSet<SubCategoryDTO> SubCategories { get; set; }
-        public DbSet<SubscribeDTO> Subscribes { get; set; }
-        public DbSet<AttributeDTO> Attributes { get; set; }
-        public DbSet<ProductTypeDTO> ProductTypes { get; set; }
+        public DbSet<BankDTO> Banks { get; set; }
+        public DbSet<BranchDTO> Branches { get; set; }
+        public DbSet<CustomerDTO> Customers { get; set; }
+        public DbSet<TransactionDTO> Transactions { get; set; }
 
-        
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.HasDefaultSchema("yeso");
-
-            modelBuilder.Entity<UserDTO>()
-                        .HasIndex(u => u.Email)
-                        .IsUnique();
-
-            modelBuilder.Entity<UserDTO>()
-                        .HasIndex(u => u.MobileNo)
-                        .IsUnique();
-
-            modelBuilder.Entity<SubscribeDTO>()
-                        .HasIndex(u => u.Email)
-                        .IsUnique();
-            modelBuilder.Entity<AttributeDTO>()
-                        .HasIndex(u => u.Name)
-                        .IsUnique();
-            modelBuilder.Entity<ProductTypeDTO>()
-                        .HasIndex(u => u.Name)
-                        .IsUnique();
-            modelBuilder.Entity<BrandDTO>()
-                       .HasIndex(u => u.Name)
-                       .IsUnique();
-            modelBuilder.Entity<UnitDTO>()
-                      .HasIndex(u => u.Name)
-                      .IsUnique();
+            modelBuilder.HasDefaultSchema("bank");
 
         }
     }

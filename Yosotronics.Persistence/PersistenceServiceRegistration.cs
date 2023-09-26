@@ -13,14 +13,10 @@ namespace Yosotronics.Persistence
     {
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services)
         {
-            services.AddTransient<IUserRepository, UserRepository>();
-            services.AddTransient<IUnitRepository, UnitRepository>();
-            services.AddTransient<IBrandRepository, BrandRepository>();
-            services.AddTransient<ICategoryRepository, CategoryRepository>();
-            services.AddTransient<ISubCategoryRepository, SubCategoryRepository>();
-            services.AddTransient<ISubscribeRepository, SubscribeRepository>();
-            services.AddTransient<IAttributeRepository, AttributeRepository>();
-            services.AddTransient<IProductTypeRepository, ProductTypeRepository>();
+            services.AddTransient<IBankRepository, BankRepository>();
+            services.AddTransient<IBranchRepository, BranchRepository>();
+            services.AddTransient<ICustomerRepository, CustomerRepository>();
+            services.AddTransient<ITransactionRepository, TransactionRepository>();
             return services;
         }
        
